@@ -1,0 +1,112 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align:center;
+    text-shadow:0px 20px 7px rgb(194, 160, 116);
+    font-size:49px;
+    color:rgb(173, 116, 40)	;
+    
+}
+.block {
+    display:flex;
+    justify-content:center;
+    margin:0 auto;
+    align-items:center;
+}
+ul{
+    font-size:16px;
+    color:brown;
+
+}
+li:hover{
+    font-size:27px;
+    color:black;
+}
+  img:hover{
+    box-shadow:8px 8px 7px rgb(194, 160, 116);
+    
+    padding:5px;
+    margin:9px;
+    border:1px solid white;
+}
+header{
+    background-color:rgb(194, 160, 116);
+    
+    padding:40px 0px 40px 25px ;
+
+
+}
+footer{
+    background-color:rgb(194, 160, 116);
+    height:90px;
+    margin-top:20px;
+}
+.link-header{
+    color:white;
+   text-decoration:none;
+   background-color:rgb(194, 160, 116);
+   font-size:20px;
+   padding:5px 10px 5px 10px;
+}
+.link-header:hover{
+     border:1px solid white;
+    font-size:30px;
+   
+}
+.link-text:visited{
+    color:black;
+    text-decoration:none;
+
+}
+.link-text{
+    color:rgb(114, 67, 5)	;
+}
+.pinterest {
+    color:#961212;
+
+}
+.donats{
+    color:#381079;
+}
+.donatss{
+    color:#FF8562;
+}
+.egypt{
+     color:rgb(173, 116, 40);
+}
+nav{
+    background-color:rgb(194, 160, 116);
+    margin-top:5px;
+    padding:11px;
+    
+}
+.link-nav{
+    text-decoration:none;
+    color:white;
+}
+.link-nav:hover{
+    border:1px solid white;
+    padding:5px;
+}
+ol{
+    border:2px solid rgb(194, 160, 116);
+}
+h2:hover{
+   text-shadow:0px 20px 7px rgb(194, 160, 116);
+    font-size:35px;
+    color:rgb(173, 116, 40)	;
+}
